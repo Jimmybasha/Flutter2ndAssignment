@@ -1,5 +1,5 @@
 # Login Screen
-![Alt Text](https://imgur.com/gallery/login-screen-pcKQ5zx)
+![Alt Text](https://github.com/Jimmybasha/Flutter2ndAssignment/blob/master/WhatsApp%20Image%202024-09-26%20at%2019.23.03_989c948f.jpg)
 
 
 
@@ -7,4 +7,4 @@
 
 # Posts Screen
 
-![Alt Text](https://imgur.com/gallery/post-screen-0IAICAw)
+![Alt Text](https://github.com/Jimmybasha/Flutter2ndAssignment/blob/master/WhatsApp%20Image%202024-09-26%20at%2019.23.12_c2a3e4c4.jpg)
